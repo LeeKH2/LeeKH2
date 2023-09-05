@@ -12,6 +12,8 @@
 
 </div>
 
+
+<div align="center">
 <details>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> <h2>Skill</h2>
@@ -51,7 +53,7 @@
 
 </div>
 </details><br>
-
+</div>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
