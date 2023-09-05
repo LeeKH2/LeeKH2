@@ -31,11 +31,10 @@
 <h4>협업도구</h4>
    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
    <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</details>
 </div>
+</details><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0gon&layout=compact)](https://github.com/0gon/github-readme-stats)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKH2&hide=contribs,prs&show_icons=true&theme=graywhite)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0gon&layout=compact)](https://github.com/0gon/github-readme-stats)<br>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKH2&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
