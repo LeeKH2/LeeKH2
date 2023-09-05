@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 <div align="center">
-  <h1>안녕하세요 신입 개발자 이강현입니다.</h1>
+  <h4>안녕하세요 신입 개발자 이강현입니다.</h4>
 </div>
 
 <details>
