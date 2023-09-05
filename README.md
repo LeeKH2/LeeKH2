@@ -8,9 +8,8 @@
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> <h2>Skill</h2>
 </summary>
-   <br>
-  
 <div align="center">
+  <hr>
 <h4>데이터베이스</h4>
    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <h4>백엔드</h4>
@@ -34,9 +33,9 @@
    <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </details>
 </div>
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0gon&layout=compact)](https://github.com/delay-100/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0gon&layout=compact)](https://github.com/0gon/github-readme-stats)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKH2&hide=contribs,prs&show_icons=true&theme=graywhite)
-</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
