@@ -41,8 +41,8 @@
 </details>
 </div><br><br><br><br>
 
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0gon&layout=compact)](https://github.com/delay-100/github-readme-stats)<br><br><br><br>
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKH2&hide=contribs,prs&show_icons=true&theme=graywhite)
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
