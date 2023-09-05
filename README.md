@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header"/>
 
 <div align="center">
-  <h4>신입 개발자 이강현입니다.</h4>
+ <h4>신입 개발자 이강현입니다.</h4>
+ :mailbox_with_mail: <p> caniopy1@naver.com </p> :mailbox_with_mail:
 </div>
 
 <details>
@@ -13,7 +14,7 @@
 <h4>데이터베이스</h4>
    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <h4>백엔드</h4>
-    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"/>
     <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
@@ -34,7 +35,8 @@
 </div>
 </details><br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0gon&layout=compact)](https://github.com/0gon/github-readme-stats)<br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKH2&hide=contribs,prs&show_icons=true&theme=graywhite)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0gon&layout=compact)](https://github.com/0gon/github-readme-stats)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKH2&hide=contribs,prs&show_icons=true&theme=graywhite)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
