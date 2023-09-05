@@ -33,9 +33,10 @@
    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
    <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </details>
-<br><br><br><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0gon&layout=compact)](https://github.com/delay-100/github-readme-stats)<br><br><br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKH2&hide=contribs,prs&show_icons=true&theme=graywhite)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 </div>
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0gon&layout=compact)](https://github.com/delay-100/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKH2&hide=contribs,prs&show_icons=true&theme=graywhite)
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
