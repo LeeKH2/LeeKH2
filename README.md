@@ -2,7 +2,7 @@
 
 <div align="center">
  <h4>신입 개발자 이강현입니다.</h4>
- :mailbox_with_mail: <p> caniopy1@naver.com </p> :mailbox_with_mail:
+ :mailbox_with_mail: caniopy1@naver.com :mailbox_with_mail:
 </div>
 
 <details>
