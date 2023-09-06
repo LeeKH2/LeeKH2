@@ -3,18 +3,13 @@
 <div align="center">
  <h4>신입 개발자 이강현입니다.</h4>
 
- <details>
- <summary>
-  :mailbox_with_mail:
- </summary>
-   <h5>caniopy1@naver.com</h5>
-</details>
+:mailbox_with_mail: caniopy1@naver.com :mailbox_with_mail:
+
 
 </div>
 
 
 <div align="center">
-<details>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> <h2>Skill</h2>
 </summary>
@@ -35,7 +30,6 @@
 <h4>API</h4>
    <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-   <img src="https://img.shields.io/badge/GEOCODING-00874D?style=for-the-badge&logo=geocaching&logoColor=white" />
  <img src="https://img.shields.io/badge/jsoup-0085F9?style=for-the-badge&logo=maildotru&logoColor=white" />
    <img src="https://img.shields.io/badge/commons%20fileupload-005FF9?style=for-the-badge&logo=maildotru&logoColor=white" />
 <h4>협업도구</h4>
@@ -51,8 +45,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKH2&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 
-</div>
-</details><br>
+</div><br>
 </div>
 
 
